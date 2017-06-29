@@ -1,5 +1,5 @@
 *.iml
-build
-/.idea
-/.gradle
+build/
+/.idea/
+/.gradle/
 try.txt
